@@ -8,7 +8,7 @@ For the backend portion of our project, we have set up our face recognition syst
 
 In terms of frontend, we have used Django to create a framework that will be used to upload our images to the server and then allow us to display and download the attendance list that is returned by the backend. We plan to expnad it further to make it more robust.
 
-The only hardware that we need is our smartphone's camera which will be used to take the class photo.
+The only hardware that we need is our smartphone's camera which will be used to take the class photo. This concept can be further extended to application specific hardware just for the purpose of attendance. This creates room for automation and better performance.
 
 ## Requirements
 - python <= 3.8.0
