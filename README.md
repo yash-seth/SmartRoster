@@ -38,3 +38,6 @@ The only hardware that we need is our smartphone's camera which will be used to 
 4) Run cell wise to first generate the embeddings for the train images and then run it on the test image to identify and classify the segmented face.
      
 > **_NOTE:_**  Run the Python Notebooks in a GPU-powered environment/system. 
+
+## Sample Screenshots
+![image](https://github.com/yash-seth/SmartRoster/assets/71393551/b9fad078-cc61-4077-8536-56ea96f250d1)
